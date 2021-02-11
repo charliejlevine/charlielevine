@@ -1,17 +1,21 @@
-### Hello 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**charlielevine/charlielevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![Charlie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlielevine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Charlie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlielevine)](https://github.com/anuraghazra/github-readme-stats)
+<hr />
 
-- 😴📲 I am currently working on my company [Lazy Texts](https://lazytexts.com) to remind students to turn in their Canvas© assignments
-- 🌱 I am a software engineer with a strong background in core programming concepts
-- 🎓 I graduated from the University of Central Florida with a Bachelor's Degree in Computer Science
-- 💬 I have gained extensive experience in  front and back-end web development through school, internships, and personal projects
-- 📫 Work email: charlie@lazytexts.com
-- 📫 Personal email: charliechamp616@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy writing blogs on [Medium](https://charliechamp616.medium.com/)
-- 🍕 My income tends to be self-made. If you can, I accept payments for pizza on [BuyMeACoffee](https://www.buymeacoffee.com/charlielevine)
+## 😋 ☕️ I Accept Donations in Coffee
+
+<a href="https://www.buymeacoffee.com/charlielevine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="175"></a>
+
+<hr />
+
+## About Me
+
+### 😴 📲 Founder / Full-Stack Developer at [Lazy Texts](https://lazytexts.com)
+### 🌱 Angular | Node.JS | Firebase | Express | Git
+### 🎓 UCF Alumni | B.S Computer Science
+### 💬 Experienced Web Developer
+### 📫 E-mail: charliechamp616@gmail.com
+### 😄 Pronouns: he/him
+### ⚡ Fun fact: I enjoy writing blogs on [Medium](https://charliechamp616.medium.com/)
